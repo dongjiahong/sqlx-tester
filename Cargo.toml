@@ -5,14 +5,12 @@ authors = ["jiahong dong"]
 edition = "2021"
 license = "MIT"
 documentation = "https://docs.rs/"
-repository = "https://github.com/dongjiahong/"
-homepage = "https://github.com/dongjiahong/"
-description = """
-
-"""
+repository = "https://github.com/dongjiahong/sqlx-tester"
+homepage = "https://github.com/dongjiahong/sqlx-tester"
+description = "learn rust from the tyrchen"
 readme = "README.md"
 categories = ["development-tools"]
-keywords = []
+keywords = ["test","database","sqlx"]
 
 [dependencies]
 sqlx = { version = "0.6.2", features = ["runtime-tokio-rustls", "postgres"] }
