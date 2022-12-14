@@ -1,0 +1,17 @@
+[package]
+name = "sqlx-tester"
+version = "0.1.0"
+authors = ["jiahong dong"]
+edition = "2021"
+license = "MIT"
+documentation = "https://docs.rs/"
+repository = "https://github.com/dongjiahong/"
+homepage = "https://github.com/dongjiahong/"
+description = """
+
+"""
+readme = "README.md"
+categories = ["development-tools"]
+keywords = []
+
+[dependencies]
